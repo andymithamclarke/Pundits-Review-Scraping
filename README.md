@@ -7,15 +7,30 @@ Development of the scraping process used to collect data for the Pundits Review 
 
 
 ## About this repository
-This repository shows the progression of the method used to scrape and process football articles from news sites. The directories show the workings involved in each phase of building a solution. Phase One represents the first method used and final phase represents the solution eventually integrated into the Pundits Review project. 
+This repository shows the progression of the method used to scrape and process football articles from news sites. The directories show the workings involved in each phase of building a solution. Phase One represents the first method used and final solution represents the method eventually integrated into the Pundits Review project. 
 
 __NOTE:__
 > Prediction models have been removed from this repository
 
 ## Contents
 
-#### <a href="https://github.com/andyclarkemedia/Pundits-Review/tree/master/">TOP LEVEL</a>
-Project configuration files alongside 'tasks.py' - used to run scheduled tasks on Heroku
+### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/tree/master/phase_one_bs_requests">Phase One</a>
+Phase One Method: Combination of Beautiful Soup & Requests libraries used inside of notebook 
+#### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/blob/master/phase_one_bs_requests/Scraping_to_Sentiment.ipynb">Show me the Notebook</a>
+
+
+### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/tree/master/phase_two_scrapy_inside_notebook">Phase Two</a>
+Phase Two Method: Scrapy takes place of beautiful soup & requests inside notebook
+#### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/blob/master/phase_two_scrapy_inside_notebook/Expanding.ipynb">Show me the Notebook</a>
+
+
+### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/tree/master/phase_two_scrapy_inside_notebook">Phase Two</a>
+Phase Three Method: More functions incorporated into modules. Pipeline takes shape but crawler still called from notebook
+#### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/blob/master/phase_three_pipeline_inside_notebook/matchreportscraper/trigger.ipynb">Show me the Notebook</a>
+
+
+### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/tree/master/final_solution_scrapy_crawler_pipeline">Final Solution</a>
+Core files used inside Scrapy Spider which was eventually integrated into project
 
 
 
