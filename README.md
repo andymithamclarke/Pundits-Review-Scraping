@@ -24,7 +24,7 @@ Phase Two Method: Scrapy takes place of beautiful soup & requests inside noteboo
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/blob/master/phase_two_scrapy_inside_notebook/Expanding.ipynb">Show me the Notebook</a>
 
 
-### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/tree/master/phase_two_scrapy_inside_notebook">Phase Two</a>
+### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/tree/master/phase_three_pipeline_inside_notebook">Phase Three</a>
 Phase Three Method: More functions incorporated into modules. Pipeline takes shape but crawler still called from notebook
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping/blob/master/phase_three_pipeline_inside_notebook/matchreportscraper/trigger.ipynb">Show me the Notebook</a>
 
